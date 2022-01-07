@@ -1,5 +1,1 @@
-# Welcome to GitHub Desktop!
-
-This is your README. READMEs are where you can communicate what your project is and how to use it.
-
-Write your name on line 6, save it, and then head back to GitHub Desktop.
+Fırat Üniversitesi, Teknoloji Fakültesi, Yazılım mühendisliği, 1. sınıf A şubesi, 210541063, Muhammet Ali Bulut. Yazılım Mühendisliği Oryantasyonu Ders Projesi 
